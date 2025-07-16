@@ -15,7 +15,7 @@
 - Lógica de Programação
 
 ## 🌱 Atualmente estudando
-- Desenvolvimento web com Python (Flask/Django)
+- Desenvolvimento web com Python (Django)
 - Automações com Python
 - Estrutura de Dados
 
