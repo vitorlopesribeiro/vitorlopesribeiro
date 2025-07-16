@@ -21,4 +21,4 @@
 
 ## 📫 Contato
 - Email: vitor.lopes.ribeiro@outlook.com  
-- LinkedIn: [https://www.linkedin.com/in/vitor-lopes-ribeiro-020724176/]
+- LinkedIn: https://www.linkedin.com/in/vitor-lopes-ribeiro-020724176/
