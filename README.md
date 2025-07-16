@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor! 👋
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas (FATEC)  
-💡 Formação técnica e acadêmica sólida: Técnico em Eletrotécnica (ETEC) e Engenharia Elétrica (UNISANTA)  
+💡 Formação técnica e acadêmica: Técnico em Eletrotécnica (ETEC) e Engenharia Elétrica (UNISANTA)  
 🔁 Em transição para Desenvolvimento de Software, aplicando meu raciocínio lógico e experiência técnica  
 🐍 Aprendendo Python com foco em automação e desenvolvimento web  
 🤖 Interessado por IA, bots e soluções simples com impacto real  
